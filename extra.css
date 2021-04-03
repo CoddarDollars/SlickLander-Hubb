@@ -1,0 +1,20 @@
+h1 {
+    width: 510px;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 10px;
+    
+}
+
+.blogimg {
+
+    padding-top: 40px;
+    padding-left:40px;
+    border-radius: 20px;
+
+}
+
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(49, 155, 76)
+}
