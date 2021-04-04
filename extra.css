@@ -1,5 +1,9 @@
 h1 {
 
+    font-family: Century Gothic;
+
+    background-color: powderblue;
+
     width: 510px;
     
     height: 40px;
@@ -22,7 +26,9 @@ h1 {
 
 p {
 	
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Century Gothic;
+
+    font-size: 25px;
 
     color: rgb (49, 155, 76)
 }
