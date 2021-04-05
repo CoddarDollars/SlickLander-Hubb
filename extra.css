@@ -38,11 +38,12 @@ p {
 }
 
 
+
 .comicimg {
 
-    padding-top: 40px;
+    padding-top: 43px;
     
-    padding-left: 40px;
+    padding-left: 200px;
 
     padding-bottom:10px ;
 
@@ -50,12 +51,11 @@ p {
 
 
 
-.imgbox {
+imgbox {
 
     display: flex;
-
-    justify-content:space-between;
 
     height: 100px;
 
 }
+
