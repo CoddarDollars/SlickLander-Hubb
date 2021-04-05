@@ -14,6 +14,8 @@ h1 {
     
 }
 
+
+
 .blogimg {
 
     padding-top: 40px;
@@ -24,6 +26,8 @@ h1 {
 
 }
 
+
+
 p {
 	
     font-family: Century Gothic;
@@ -31,4 +35,23 @@ p {
     font-size: 25px;
 
     color: rgb (49, 155, 76)
+}
+
+
+.comicimg {
+
+    padding-top: 40px;
+    
+    padding-left: 40px;
+
+    padding-bottom:10px ;
+
+}
+
+
+
+.imgbox {
+
+   
+
 }
