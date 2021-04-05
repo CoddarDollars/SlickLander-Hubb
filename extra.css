@@ -34,7 +34,7 @@ p {
 
     font-size: 25px;
 
-    color: rgb (49, 155, 76)
+    color: rgb (49, 155, 76);
 }
 
 
@@ -54,7 +54,7 @@ p {
 
     display: flex;
 
-    /* justify-content:space-between;*/
+    justify-content:space-between;
 
     height: 100px;
 
