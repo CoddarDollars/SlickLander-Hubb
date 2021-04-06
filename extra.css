@@ -59,3 +59,14 @@ imgbox {
 
 }
 
+
+msgbox {
+
+    background-color: lightgrey;
+    width: 10px;
+    border: 10px solid rgb(0, 23, 99);
+    padding: 7px;
+    /*padding-top: 25px;*/
+
+}
+
