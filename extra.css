@@ -1,6 +1,6 @@
 h1 {
 
-    font-family: Century Gothic;
+    font-family: Helvetica;
 
     background-color: powderblue;
 
@@ -63,10 +63,11 @@ imgbox {
 msgbox {
 
     background-color: lightgrey;
-    width: 10px;
+    width: 500px;
     border: 10px solid rgb(0, 23, 99);
     padding: 7px;
     padding-top: 10px;
+    position: absolute;
 
 }
 
