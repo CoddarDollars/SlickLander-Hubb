@@ -55,7 +55,11 @@ imgbox {
 
     display: flex;
 
+    font-family: Helvetica; 
+
     height: 100px;
+
+    padding-left: 100px;
 
 }
 
@@ -63,11 +67,20 @@ imgbox {
 msgbox {
 
     background-color: lightgrey;
-    width: 500px;
+    width: 100px;
     border: 10px solid rgb(0, 23, 99);
     padding: 7px;
     padding-top: 10px;
     position: absolute;
+    font-size: 20px;
+
+}
+
+ibox {
+
+	padding-top: 540px;
+	font-family: Helvetica;
+	position: absolute;;
 
 }
 
